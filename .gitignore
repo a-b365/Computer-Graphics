@@ -1,0 +1,11 @@
+#Visual Studio 
+.vs
+
+#Debug Mode Config Files
+Debug
+
+#Solution File
+*.sln
+
+#All intermediate Files
+*.vcxproj*
